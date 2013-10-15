@@ -12,9 +12,6 @@ gem 'thin'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
-# bootstrap 3.0 saas
-gem 'bootstrap-sass'
-
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
